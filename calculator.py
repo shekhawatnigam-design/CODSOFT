@@ -1,10 +1,3 @@
-# ============================================
-#   CodSoft Internship - Task 2
-#   Advanced Calculator - FULL VERSION
-#   Made by: Nigam Kumar
-#   Batch: JUNE BATCH C3
-# ============================================
-
 import tkinter as tk
 from tkinter import ttk
 import math
